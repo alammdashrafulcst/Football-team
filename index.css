@@ -1,0 +1,86 @@
+.banner{
+
+width: 100%;
+    display: grid;
+    grid-template-columns: auto auto;
+    height: 500px;
+    background-color:royalblue;
+}
+
+
+.intro{
+
+
+}
+
+h1{
+margin: 50px;
+    color:wheat ;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+
+.first-player{
+
+    display: grid;
+    grid-template-columns: auto;
+}
+
+.first-player img{
+
+    width: 70%;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.fa-arrow-right{
+
+    color: wheat;
+
+}
+
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    
+}
+
+.player  img{
+
+    width: 100%;
+}
+.player{
+
+    border: 30px solid rgba(135, 178, 235, 0.295);
+    margin: 20px;
+    padding: 50px;
+}
+
+.logo img{
+    
+width: 450px;
+display: block;
+margin-left: 380px;
+
+
+}
+
+.social-icon a img{
+
+width: 5%;
+
+}
+
+.social-icon{
+
+
+margin-left: 530px;
+
+}
+
+.footer{
+
+    margin-left: 530px;
+    font-weight: 900px;
+}
